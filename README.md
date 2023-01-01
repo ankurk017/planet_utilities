@@ -1,5 +1,6 @@
 # planet_utilities
 
+Documentation: https://www.nsstc.uah.edu/users/ankur.kumar/seaice/html/index.html
 
 The planetscope package is a tool specifically designed to read and plot data from the PlanetScope satellite imaging system. The PlanetScope satellite imaging system is a collection of small, remote sensing satellites that capture high-resolution images of the Earth's surface. These images are used for a variety of applications, including mapping, land use analysis, and disaster response.
 

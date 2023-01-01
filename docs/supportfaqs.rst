@@ -1,4 +1,19 @@
-Support and FAQs
+
+Support
+=====================================================
+
+
+If you have any questions or encounter any issues while using the planetscope package, there are several ways you can get help:
+
+*    Consult the documentation: The documentation for the planetscope package should provide detailed information on how to use the package and troubleshoot common issues. You can find the documentation at https://github.com/NASA-IMPACT/planet_utils/.
+*    Check the FAQs: We have compiled a list of common questions and issues that users may encounter while using the planetscope package. You can find the FAQs at https://docs.planetscope.org/faqs/.
+*    File an issue on GitHub: If you are unable to find a solution to your issue in the documentation or FAQs, you can file an issue on the package's GitHub repository at https://github.com/NASA-IMPACT/planet_utils/issues. When filing an issue, please include as much information as possible, such as the version of the package you are using, the Python version you are using, and any error messages you are seeing.
+*    Contact the maintainers: If you have a question or issue that is not covered in the documentation or FAQs, or if you would like to request a new feature, you can contact the maintainers of the planetscope package by emailing support@planetscope.org.
+
+We strive to provide timely and helpful support for the planetscope package and appreciate your feedback and contributions.
+
+
+FAQs
 =====================================================
 
 This section covers some common questions and issues that users may encounter while using the planetscope package.

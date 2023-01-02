@@ -4,9 +4,9 @@ Documentation: https://www.nsstc.uah.edu/users/ankur.kumar/seaice/html/index.htm
 
 The `planetscope` package is a tool specifically designed to read and plot data from the PlanetScope satellite imaging system. The PlanetScope satellite imaging system is a collection of small, remote sensing satellites that capture high-resolution images of the Earth's surface. These images are used for a variety of applications, including mapping, land use analysis, and disaster response.
 
-The planetscope package allows users to easily access and visualize this data by providing functions for reading and parsing the raw data files, as well as functions for generating plots and maps from the data. The package also includes tools for processing the data, such as image cropping, resampling, and band math.
+The `planetscope` package allows users to easily access and visualize this data by providing functions for reading and parsing the raw data files, as well as functions for generating plots and maps from the data. The package also includes tools for processing the data, such as image cropping, resampling, and band math.
 
-In addition to its visualization capabilities, the planetscope package also includes functions for generating training data for machine learning algorithms. These functions allow users to extract specific features from the satellite images, such as land cover types or building footprints, and format them in a way that is suitable for use as training data. This can be particularly useful for tasks such as land use classification or object detection.
+In addition to its visualization capabilities, the `planetscope` package also includes functions for generating training data for machine learning algorithms. These functions allow users to extract specific features from the satellite images, such as land cover types or building footprints, and format them in a way that is suitable for use as training data. This can be particularly useful for tasks such as land use classification or object detection.
 
 
 PlanetScope is a satellite imagery provider that offers high-resolution imagery of the Earth's surface for various industries, including agriculture, construction, and environmental monitoring. A Python package that has been developed to read and plot PlanetScope data might include the following features:

@@ -1,7 +1,7 @@
 # planet_utilities
 
 
-The planetscope package is a tool specifically designed to read and plot data from the PlanetScope satellite imaging system. The PlanetScope satellite imaging system is a collection of small, remote sensing satellites that capture high-resolution images of the Earth's surface. These images are used for a variety of applications, including mapping, land use analysis, and disaster response.
+The `planetscope` package is a tool specifically designed to read and plot data from the PlanetScope satellite imaging system. The PlanetScope satellite imaging system is a collection of small, remote sensing satellites that capture high-resolution images of the Earth's surface. These images are used for a variety of applications, including mapping, land use analysis, and disaster response.
 
 The planetscope package allows users to easily access and visualize this data by providing functions for reading and parsing the raw data files, as well as functions for generating plots and maps from the data. The package also includes tools for processing the data, such as image cropping, resampling, and band math.
 

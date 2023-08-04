@@ -1,3 +1,3 @@
 """
-API reference documentation for the example `mytoolbox` package.
+API reference documentation for the `planetscope` package. All API can be found here: https://docs.google.com/document/d/1hbGH-BgqucU6thGB86Zc-GCbBOShV5hWCOn_B4AUiUg/edit
 """

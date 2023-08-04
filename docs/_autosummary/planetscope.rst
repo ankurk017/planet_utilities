@@ -28,8 +28,6 @@
 
    planetscope.ahps
    planetscope.coast
-   planetscope.mymodule1
-   planetscope.mymodule2
-   planetscope.mymodule3a
-   planetscope.mysubpackage
+   planetscope.metadata
+   planetscope.planet_metadata
 
